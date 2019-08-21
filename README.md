@@ -24,3 +24,11 @@ USB, it recognizes it and uploads the downloaded videos and comments to it using
 camera exchange protocol (PTP).
 
 https://support.google.com/youtube/answer/6224202
+
+1. Go through each subscription in the `subscription_manager.xml` file
+2. See if there is a timestamp of the last successful download or not
+  - No: set the last successful download time to now and continue
+  - Yes: find videos between now and the last successful download stamp
+3. Download videos succesively updating the stamp with each download
+4. Capture the comments for each video (Puppeteer screenshots)
+5. Listen for PTP device connection, check ID and sync if needed
