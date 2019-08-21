@@ -34,3 +34,5 @@ https://support.google.com/youtube/answer/6224202
 5. Listen for PTP device connection, check ID and sync if needed
 
 https://github.com/fent/node-ytdl-core
+
+https://docs.microsoft.com/en-us/uwp/api/windows.devices.portable.storagedevice
