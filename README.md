@@ -32,3 +32,5 @@ https://support.google.com/youtube/answer/6224202
 3. Download videos succesively updating the stamp with each download
 4. Capture the comments for each video (Puppeteer screenshots)
 5. Listen for PTP device connection, check ID and sync if needed
+
+https://github.com/fent/node-ytdl-core
