@@ -22,3 +22,5 @@ section pages instead of fucking around with storing it as formatted text.
 The utility might also have a functionality where upon connecting one's iPhone over the
 USB, it recognizes it and uploads the downloaded videos and comments to it using the
 camera exchange protocol (PTP).
+
+https://support.google.com/youtube/answer/6224202
