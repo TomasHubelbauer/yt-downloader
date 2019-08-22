@@ -16,7 +16,7 @@ the downloader first.
 - See if it is possible to find the local Chrome installation (if any) with Puppeteer and download
   the OPML file through the user's browser profile (to avoid having them sign in)
   https://github.com/GoogleChrome/puppeteer/issues/4394 or
-  https://github.com/bertrandom/chrome-cookies-secure
+  https://github.com/bertrandom/chrome-cookies-secure/blob/master/example/puppeteer.js
 - Scrape comments (Puppeteer screenshots)
 - Use AFC with https://github.com/mceSystems/libijs to sync videos
 - Recognize watched videos by knowing they were synced but have been since deleted (to know not
